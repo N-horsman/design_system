@@ -1,1 +1,1 @@
-# design_system
+# Welcome to my Codecademy website design system project

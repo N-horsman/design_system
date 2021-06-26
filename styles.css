@@ -1,0 +1,92 @@
+/* NOTE: Universal styles */
+body {
+  background-color: #1f1f1f;
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 18px;
+}
+
+/* NOTE: header */
+.title {
+  font-family: 'Dela Gothic One', cursive;
+  letter-spacing: 3px;
+}
+
+a {
+
+}
+
+/* NOTE: Colour container */
+.swatches {
+  width: 50%;
+}
+.swatch-colour {
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+}
+.coral-pink {
+  background-color: #F2668B;
+}
+.medium-blue {
+  background-color: #27418C;
+}
+.mint-green {
+  background-color: #50BF97;
+}
+.goldenrod {
+  background-color: #F2B544;
+  color: black;
+}
+.light-peach {
+  background-color: #F2E2DF;
+  color: black;
+}
+
+/* NOTE: font container */
+.font-label {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.dela-gothic-one {
+  font-family: 'Dela Gothic One', cursive;
+  letter-spacing: 2px;
+}
+
+.oxygen {
+  font-family: 'Oxygen', sans-serif;
+}
+
+.light {
+  font-weight: 300;
+}
+
+.regular {
+  font-weight: 400;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.source-sans-pro {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.light-italic {
+  font-weight: 300;
+  font-style: italic;
+}
+
+.regular-italic {
+  font-weight: 400;
+  font-style: italic;
+}
+
+.bold-italic {
+  font-weight: 700;
+  font-style: italic;
+}
